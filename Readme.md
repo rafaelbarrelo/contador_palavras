@@ -22,7 +22,7 @@ http://127.0.0.1:5000/ `<url>` / `<palavra>`
 { `<palavra>`: `quantidade` }
 
 ### Exemplo de utilização
-http://127.0.0.1:5000/_http://rafael.barrelo.com.br_/_rafael_
+http://127.0.0.1:5000/ _http://rafael.barrelo.com.br_ / _rafael_
 
 `{ "rafael" : 8 }`
 
